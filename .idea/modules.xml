@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/buildTools.iml" filepath="$PROJECT_DIR$/buildTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin/kotlin.iml" filepath="$PROJECT_DIR$/kotlin/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlinBuild/kotlinBuild.iml" filepath="$PROJECT_DIR$/kotlinBuild/kotlinBuild.iml" />
     </modules>
   </component>
 </project>
